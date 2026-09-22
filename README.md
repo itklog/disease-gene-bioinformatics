@@ -20,7 +20,7 @@
 
 ### Screenshot 1: Gene Location in UCSC
 *Description: The UCSC Genome Browser displaying the SOD1 gene region on chromosome 21 with visible genomic coordinates and gene symbol.*  
-* [View screenshot 1 (Gene Location)](screenshots/01_gene_location.jpg)
+* [View screenshot 1 (Gene Location)](screenshots/01_gene_location.jpg) 
 
 ## Exons, Introns, and Transcripts
 
@@ -33,7 +33,7 @@ The selected GENCODE transcript is **ENST00000270142.11**, which contains 5 exon
 
 ### Screenshot 2: Gene Structure and Transcripts
 *Description: Detailed view of the SOD1 gene structure showing exon boxes, intron connecting lines, and multiple transcript models.*  
-* [View screenshot 2 (Gene Structure)](screenshots/02_gene_structure.jpg)
+* [View screenshot 2 (Gene Structure)](screenshots/02_gene_structure.jpg) 
 
 ## Genome Browser Tracks
 
@@ -45,8 +45,7 @@ The selected GENCODE transcript is **ENST00000270142.11**, which contains 5 exon
 
 ### Screenshot 3: Browser Tracks (ClinVar and Conservation)
 *Description: UCSC Genome Browser view displaying the SOD1 gene alongside ClinVar variant annotations and the 100 Vertebrates Basewise Conservation by PhyloP track.*  
-* [View screenshot 3 (Browser Tracks)](screenshots/03_tracks.jpg)
-
+* [View screenshot 3 (Browser Tracks)](screenshots/03_tracks.jpg) 
 ## ClinVar Variant Selection
 
 * **a. Gene:** SOD1  
@@ -61,7 +60,7 @@ The selected GENCODE transcript is **ENST00000270142.11**, which contains 5 exon
 The selected variant is a single-nucleotide substitution that produces a missense change from **aspartic acid (Asp/D) to alanine (Ala/A) at amino acid position 91**, written as **p.Asp91Ala (D91A)**.
 
 ### Screenshot 4: ClinVar Variant Record
-* [View Screenshot 4 (ClinVar Variant)](screenshots/04_Clinvar_variant.jpg)
+* [View Screenshot 4 (ClinVar Variant)](screenshots/04_Clinvar_variant.jpg) 
 
 ## Variant Mapping and Functional Context
 
@@ -72,7 +71,7 @@ The selected variant is a single-nucleotide substitution that produces a missens
 * **e. What additional evidence would be needed before concluding that the variant causes disease?** Additional evidence would include functional studies of the altered SOD1 protein, genetic segregation studies in affected families, population-frequency data, clinical evidence, and independent studies supporting the relationship between the variant and disease.  
 
 ### Screenshot 5: Variant Position in UCSC
-* [View Screenshot 5 (Selected variant)](screenshots/05_variant_in_ucsc.jpg)
+* [View Screenshot 5 (Selected variant)](screenshots/05_variant_in_ucsc.jpg) 
 
 ## Reflection Questions
 
