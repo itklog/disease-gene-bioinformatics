@@ -20,7 +20,7 @@
 
 ### Screenshot 1: Gene Location in UCSC
 *Description: The UCSC Genome Browser displaying the SOD1 gene region on chromosome 21 with visible genomic coordinates and gene symbol.*  
-* [View screenshot 1 (Gene Location)](screenshots/01_gene_location.jpg) 
+* [View screenshot 1 (Gene Location)](screenshots/01_gene_location.jpg)  
 
 ## Exons, Introns, and Transcripts
 
